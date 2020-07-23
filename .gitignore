@@ -1,0 +1,5 @@
+# Ignore test image folder
+testimages/
+
+# Ignore macOS system files
+.DS_Store
